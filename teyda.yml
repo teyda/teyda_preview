@@ -1,0 +1,5 @@
+token: your bot token
+protocol: polling
+endpoint: https://api.telegram.org
+pollingTimeout: 10
+self_id: "114514" # your bot id (string)
